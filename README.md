@@ -23,6 +23,10 @@ How?
 - 프로토타입 개발로서 실제 서비스 운영에 초점을 맞춘것이 아닌 핵심 기능만을 개발하여 실제로 벤치마킹한 기업과 경쟁력이 있을지 판단함
 - ### 디자인 figma https://www.figma.com/design/E0db3V0VTsbPCYT1Os1MIG/%EC%9C%A0%EB%8B%88%EB%A7%88%EC%BC%93?node-id=0-1&node-type=canvas&t=dmtILvBZ32euuOMp-0
 
+![스크린샷 2024-09-11 14 22 39](https://github.com/user-attachments/assets/30c52c1c-c279-46bf-8aac-640e6fed041d)
+![스크린샷 2024-09-11 14 22 34](https://github.com/user-attachments/assets/0e7ce386-61a0-4950-a20c-635bdc629058)
+![스크린샷 2024-09-11 14 22 45](https://github.com/user-attachments/assets/b9a179d8-3445-413b-8724-1b527d043beb)
+![스크린샷 2024-09-11 14 22 23](https://github.com/user-attachments/assets/395d989f-18cf-41a2-a38a-d3619b732f1b)
 
 # 기획2 <br /> 감자클럽
 - 동아리 내에서 서로 다른 팀원과 여러가지 프로젝트 진행 상황을 한눈에 볼 수 있는 어플
